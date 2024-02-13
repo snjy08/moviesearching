@@ -1,0 +1,8 @@
+.home{
+    background: url('https://www.soundstripe.com/hs-fs/hubfs/Blog%20Images/2022/March/unnamed-4.png?width=1000&name=unnamed-4.png');
+    height: 100vh;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: aliceblue;
+}
